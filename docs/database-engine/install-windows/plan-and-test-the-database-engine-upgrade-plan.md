@@ -3,17 +3,14 @@ title: "Plan and Test the Database Engine Upgrade Plan | Microsoft Docs"
 ms.custom: ""
 ms.date: "05/18/2018"
 ms.prod: sql
-ms.prod_service: install
+ms.technology: install
 ms.reviewer: ""
 ms.suite: "sql"
-ms.technology: 
-  - "server-general"
 ms.tgt_pltfrm: ""
 ms.topic: conceptual
 ms.assetid: 19c5b725-7400-4881-af8f-fd232ca28234
-caps.latest.revision: 16
-author: MikeRayMSFT
-ms.author: mikeray
+author: MashaMSFT
+ms.author: mathoma
 manager: craigg
 ---
 # Plan and test the database engine upgrade plan
